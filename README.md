@@ -1,22 +1,19 @@
-# Awesome trustworthy KG-LLM 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/zjukg/KG-LLM-Papers) 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/zjukg/KG-LLM-Papers/blob/main/LICENSE)
-![](https://img.shields.io/github/last-commit/zjukg/KG-LLM-Papers?color=green) 
+# Awesome Trustworthy Retrieval Augmented Generation (RAG)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/Arstanley/Awesome-Trustworthy-Retrieval-Augmented-Generation) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Arstanley/Awesome-Trustworthy-Retrieval-Augmented-Generation/blob/main/LICENSE)
 ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
->What can LLMs do for KGs? Or, in other words, what role can KG play in the era of LLMs?
+> "The simple believes everything, but the prudent gives thought to his steps."
+Proverbs 14:15 (ESV)
 
-🙌 This repository collects papers integrating **knowledge graphs (KGs)** and **large language models (LLMs)**.
+🙌 This repository collects papers investigating the trustworthiness of retrieval augmented generation.
 
 😎 Welcome to recommend missing papers through **`Adding Issues`** or **`Pull Requests`**. 
 
 <!-- Details of summary and classification of papers are shown in [wiki](https://github.com/zjukg/KG-LLM-Papers/wiki). -->
 
 ## 🔔 News
-- **`2024-05` Our paper [Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering](https://arxiv.org/abs/2311.06503) has been accepted by ACL 2024. [[`Repo`](https://github.com/zjukg/KnowPAT)]**
-- **`2024-02` We preprint our Survey [Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey](http://arxiv.org/abs/2402.05391)  [[`Repo`](https://github.com/zjukg/KG-MM-Survey)].**
-- **`2023-10` We preprint our paper [Making Large Language Models Perform Better in Knowledge Graph Completion](https://arxiv.org/abs/2310.06671) and release the [[`Repo`](https://github.com/zjukg/KoPA)].**
-- **`2023-06` We create this repository to maintain a paper list on `Intergrating Knowledge Graphs and Large Language Models`.**
+- **`2023-06` We create this repository to maintain a paper list on ``.**
 
 <!--
 *Todo:*
