@@ -67,8 +67,9 @@ Proverbs 14:15 (ESV)
 
 ### Explainability
 - \[[arxiv](https://arxiv.org/abs/2310.01061)\] Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning. `2024.02`
-### Others
+### Others (Benchmarks, etc.)
 - \[[arxiv](https://arxiv.org/abs/2406.05794)\] RE-RAG: Improving Open-Domain QA Performance and Interpretability with Relevance Estimator in Retrieval-Augmented Generation. `2024.06`
+- \[[arxiv](https://arxiv.org/abs/2401.00396)\] RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models. `2024.05`
 
 ## Contribution
 ### 👥 Contributors (🗣️ We don't have any yet but once you contribute your profile will be shown here!)
