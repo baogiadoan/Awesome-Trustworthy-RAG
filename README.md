@@ -4,7 +4,6 @@
 ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 > "The simple believes everything, but the prudent gives thought to his steps."
-Proverbs 14:15 (ESV)
 
 🙌 This repository collects papers investigating the trustworthiness of retrieval augmented generation.
 
@@ -61,6 +60,7 @@ Proverbs 14:15 (ESV)
 - \[[ICLR](https://openreview.net/forum?id=ZS4m74kZpH)\] Making Retrieval-Augmented Language Models Robust to Irrelevant Context. `2024.05`
 - \[[arxiv](https://arxiv.org/abs/2403.14952)\] Evidence-Driven Retrieval Augmented Response Generation for Online Misinformation. `2024.03`
 - \[[arxiv](https://arxiv.org/pdf/2307.04642)\] TRAQ: Trustworthy Retrieval Augmented Question Answering via Conformal Prediction. `2024.04`
+- \[[Paper](https://openreview.net/pdf?id=XwnABAdH5y)\] Trustworthy Alignment of Retrieval-Augmented Large Language Models via Reinforcement Learning. `2024.07`
 
 ### Fairness
 - \[[arxiv](https://arxiv.org/abs/2403.19964)\] FairRAG: Fair Human Generation via Fair Retrieval Augmentation. `2024.04`
