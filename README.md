@@ -70,18 +70,18 @@ Proverbs 14:15 (ESV)
 - \[[arxiv](https://arxiv.org/abs/2406.05794)\] RE-RAG: Improving Open-Domain QA Performance and Interpretability with Relevance Estimator in Retrieval-Augmented Generation. `2024.06`
 
 ## Contribution
-### 👥 Contributors
-
+### 👥 Contributors (🗣️ We don't have any yet but once you contribute your profile will be shown here!)
 <a href="https://github.com/Arstanley/Awesome-Trustworthy-Retrieval-Augmented-Generation/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Arstanley/Awesome-Trustworthy-Retrieval-Augmented-Generation" />
 </a>
 
 ### 🎉 Contributing ( welcome ! )
-
 - ✨ Add a new paper or update an existing one.
 - 🧐 Use the same format as existing entries to describe the work.
 - 😄 A very brief explanation why you think a paper should be added or updated is recommended (Not Neccessary) via **`Adding Issues`** or **`Pull Requests`**.
 
 **Don't worry if you put something wrong, they will be fixed for you. Just feel free to contribute and promote your awesome work here! 🤩 We'll get back to you in time ~ 😉**
 
-![Star History Chart](https://star-history.com/#Arstanley/Awesome-Trustworthy-Retrieval-Augmented-Generation&Date)
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Arstanley/Awesome-Trustworthy-Retrieval-Augmented-Generation&type=Date)](https://star-history.com/#Arstanley/Awesome-Trustworthy-Retrieval-Augmented-Generation&Date)
