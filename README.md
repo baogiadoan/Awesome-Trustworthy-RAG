@@ -60,6 +60,7 @@ Proverbs 14:15 (ESV)
 - \[[arxiv](https://arxiv.org/abs/2405.20978)\]  Enhancing Noise Robustness of Retrieval-Augmented Language Models with Adaptive Adversarial Training. `2024.05`
 - \[[ICLR](https://openreview.net/forum?id=ZS4m74kZpH)\] Making Retrieval-Augmented Language Models Robust to Irrelevant Context. `2024.05`
 - \[[arxiv](https://arxiv.org/abs/2403.14952)\] Evidence-Driven Retrieval Augmented Response Generation for Online Misinformation. `2024.03`
+- \[[arxiv](https://arxiv.org/pdf/2307.04642)\] TRAQ: Trustworthy Retrieval Augmented Question Answering via Conformal Prediction. `2024.04`
 
 ### Fairness
 - \[[arxiv](https://arxiv.org/abs/2403.19964)\] FairRAG: Fair Human Generation via Fair Retrieval Augmentation. `2024.04`
