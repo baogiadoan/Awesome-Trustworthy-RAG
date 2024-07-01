@@ -31,6 +31,7 @@
     - [LLM Trustworthiness](#llm-trustworthiness)
   - [🔒 Privacy](#privacy)
   - [💪 Robustness](#robustness)
+  - [⛨ Safety](#safety)
   - [⚖️ Fairness](#fairness)
   - [📖 Explainability](#explainability)
   - [🤖 Others](#others)
