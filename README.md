@@ -64,9 +64,9 @@
 - \[[Paper](https://openreview.net/pdf?id=XwnABAdH5y)\] Trustworthy Alignment of Retrieval-Augmented Large Language Models via Reinforcement Learning. `2023.07`
 
 ### Safety 
--\[[arxiv](https://arxiv.org/html/2406.18122v1)\]
+- \[[arxiv](https://arxiv.org/html/2406.18122v1)\]
 Poisoned LangChain: Jailbreak LLMs by LangChain. `2024.06`
--\[[arxiv](https://arxiv.org/abs/2402.08416)\]
+- \[[arxiv](https://arxiv.org/abs/2402.08416)\]
 Pandora: Jailbreak GPTs by Retrieval Augmented Generation Poisoning. `2024.02`
 
 ### Fairness
