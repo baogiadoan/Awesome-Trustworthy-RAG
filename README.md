@@ -59,6 +59,7 @@
 - \[[arxiv](https://arxiv.org/pdf/2307.04642)\] TRAQ: Trustworthy Retrieval Augmented Question Answering via Conformal Prediction. `2024.04`
 - \[[arxiv](https://proceedings.neurips.cc/paper_files/paper/2022/file/8a0d3ae989a382ce6e50312bc35bf7e1-Paper-Conference.pdf)\] Unsupervised Cross-Task Generalization via Retrieval Augmentation. `2022.04`
 - \[[arxiv](https://arxiv.org/pdf/2009.08553)\] Generation-Augmented Retrieval for Open-Domain Question Answering. `2021.05`
+- \[[arxiv](https://arxiv.org/abs/2404.04287)\] CONFLARE: CONFormal LArge language model REtrieval. `2024.04`
 
 ### Robustness
 - \[[arxiv](https://arxiv.org/abs/2406.00944)\] Unveil the Duality of Retrieval-Augmented Generation: Theoretical Analysis and Practical Solution. `2024.06`
