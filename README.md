@@ -30,6 +30,7 @@
     - [RAG](#rag)
     - [LLM Trustworthiness](#llm-trustworthiness)
   - [🔒 Privacy](#privacy)
+  - [🔧 Reliability]()
   - [💪 Robustness](#robustness)
   - [⛨ Safety](#safety)
   - [⚖️ Fairness](#fairness)
@@ -54,6 +55,10 @@
 - \[[Paper](https://arxiv.org/abs/2210.09150)\] \[[Github](https://github.com/NoviScl/GPT3-Reliability)\] Prompting GPT-3 To Be Reliable. `2022.10`
 ### Privacy 
 - \[[arxiv](https://arxiv.org/abs/2402.16893)\] The Good and The Bad: Exploring Privacy Issues in Retrieval-Augmented Generation (RAG). `2024.02`
+### Reliability
+- \[[arxiv](https://arxiv.org/pdf/2307.04642)\] TRAQ: Trustworthy Retrieval Augmented Question Answering via Conformal Prediction. `2024.04`
+- \[[arxiv](https://proceedings.neurips.cc/paper_files/paper/2022/file/8a0d3ae989a382ce6e50312bc35bf7e1-Paper-Conference.pdf)\] Unsupervised Cross-Task Generalization via Retrieval Augmentation. `2022.04`
+- \[[arxiv](https://arxiv.org/pdf/2009.08553)\] Generation-Augmented Retrieval for Open-Domain Question Answering. `2021.05`
 
 ### Robustness
 - \[[arxiv](https://arxiv.org/abs/2406.00944)\] Unveil the Duality of Retrieval-Augmented Generation: Theoretical Analysis and Practical Solution. `2024.06`
@@ -61,7 +66,6 @@
 - \[[arxiv](https://arxiv.org/abs/2405.15556)\] Certifiably Robust RAG against Retrieval Corruption. `2024.05`
 - \[[ICLR](https://openreview.net/forum?id=ZS4m74kZpH)\] Making Retrieval-Augmented Language Models Robust to Irrelevant Context. `2024.05`
 - \[[arxiv](https://arxiv.org/abs/2403.14952)\] Evidence-Driven Retrieval Augmented Response Generation for Online Misinformation. `2024.03`
-- \[[arxiv](https://arxiv.org/pdf/2307.04642)\] TRAQ: Trustworthy Retrieval Augmented Question Answering via Conformal Prediction. `2024.04`
 - \[[Paper](https://openreview.net/pdf?id=XwnABAdH5y)\] Trustworthy Alignment of Retrieval-Augmented Large Language Models via Reinforcement Learning. `2023.07`
 
 ### Safety 
