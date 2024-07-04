@@ -30,7 +30,7 @@
     - [RAG](#rag)
     - [LLM Trustworthiness](#llm-trustworthiness)
   - [🔒 Privacy](#privacy)
-  - [🔧 Reliability]()
+  - [🔧 Reliability](#reliability)
   - [💪 Robustness](#robustness)
   - [⛨ Safety](#safety)
   - [⚖️ Fairness](#fairness)
