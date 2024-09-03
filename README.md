@@ -79,6 +79,7 @@ Pandora: Jailbreak GPTs by Retrieval Augmented Generation Poisoning. `2024.02`
 
 ### Fairness
 - \[[arxiv](https://arxiv.org/abs/2403.19964)\] FairRAG: Fair Human Generation via Fair Retrieval Augmentation. `2024.04`
+- \[[arxiv](https://arxiv.org/pdf/2406.00083v1)] BadRAG: Identifying Vulnerabilities in Retrieval Augmented Generation of Large Language Models. `2024.06`
 
 ### Explainability
 - \[[arxiv](https://arxiv.org/abs/2310.01061)\] Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning. `2024.02`
