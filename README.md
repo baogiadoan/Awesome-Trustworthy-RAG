@@ -62,6 +62,7 @@
 - \[[arxiv](https://arxiv.org/abs/2404.04287)\] CONFLARE: CONFormal LArge language model REtrieval. `2024.04`
 
 ### Robustness
+- \[[arxiv](https://arxiv.org/pdf/2402.07867)\] PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models `2024.08`
 - \[[arxiv](https://arxiv.org/abs/2406.00944)\] Unveil the Duality of Retrieval-Augmented Generation: Theoretical Analysis and Practical Solution. `2024.06`
 - \[[arxiv](https://arxiv.org/abs/2405.20978)\]  Enhancing Noise Robustness of Retrieval-Augmented Language Models with Adaptive Adversarial Training. `2024.05`
 - \[[arxiv](https://arxiv.org/abs/2405.15556)\] Certifiably Robust RAG against Retrieval Corruption. `2024.05`
