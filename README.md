@@ -62,7 +62,6 @@
 - \[[arxiv](https://arxiv.org/abs/2404.04287)\] CONFLARE: CONFormal LArge language model REtrieval. `2024.04`
 
 ### Robustness
-- \[[arxiv](https://arxiv.org/pdf/2402.07867)\] PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models `2024.08`
 - \[[arxiv](https://arxiv.org/abs/2406.00944)\] Unveil the Duality of Retrieval-Augmented Generation: Theoretical Analysis and Practical Solution. `2024.06`
 - \[[arxiv](https://arxiv.org/abs/2405.20978)\]  Enhancing Noise Robustness of Retrieval-Augmented Language Models with Adaptive Adversarial Training. `2024.05`
 - \[[arxiv](https://arxiv.org/abs/2405.15556)\] Certifiably Robust RAG against Retrieval Corruption. `2024.05`
@@ -71,11 +70,12 @@
 - \[[Paper](https://openreview.net/pdf?id=XwnABAdH5y)\] Trustworthy Alignment of Retrieval-Augmented Large Language Models via Reinforcement Learning. `2023.07`
 
 ### Safety 
+- \[[arxiv](https://arxiv.org/pdf/2402.07867)\] PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models `2024.08`
 - \[[arxiv](https://arxiv.org/pdf/2406.00083v1)] BadRAG: Identifying Vulnerabilities in Retrieval Augmented Generation of Large Language Models. `2024.06`
-- \[[arxiv](https://arxiv.org/html/2406.18122v1)\]
-Poisoned LangChain: Jailbreak LLMs by LangChain. `2024.06`
-- \[[arxiv](https://arxiv.org/abs/2402.08416)\]
-Pandora: Jailbreak GPTs by Retrieval Augmented Generation Poisoning. `2024.02`
+- \[[arxiv](https://arxiv.org/html/2406.18122v1)\] Poisoned LangChain: Jailbreak LLMs by LangChain. `2024.06`
+- \[[arxiv](https://arxiv.org/abs/2402.08416)\] Pandora: Jailbreak GPTs by Retrieval Augmented Generation Poisoning. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2402.13532)\] Backdoor Attacks on Dense Passage Retrievers for Disseminating Misinformation. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2310.19156)\] Poisoning Retrieval Corpora by Injecting Adversarial Passages. `2023.10` 
 
 ### Fairness
 - \[[arxiv](https://arxiv.org/abs/2403.19964)\] FairRAG: Fair Human Generation via Fair Retrieval Augmentation. `2024.04`
