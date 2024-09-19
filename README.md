@@ -85,6 +85,10 @@
 
 ### Explainability
 - \[[arxiv](https://arxiv.org/abs/2310.01061)\] Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning. `2024.02`
+- \[[SIGIR24](https://dl.acm.org/doi/pdf/10.1145/3626772.3657660)\] RAG-Ex: A Generic Framework for Explaining Retrieval Augmented Generation. `2024.07`
+- \[[arxiv](https://arxiv.org/abs/2407.20990) From Feature Importance to Natural Language Explanations Using LLMs with RAG. `2024.06`
+- \[[SIGIR24](https://dl.acm.org/doi/abs/10.1145/3626772.3657984) IR-RAG@ SIGIR24: Information Retrieval's Role in RAG Systems. `2024.07`
+  
 ### Others (Benchmarks, etc.)
 - \[[arxiv](https://arxiv.org/abs/2406.05794)\] RE-RAG: Improving Open-Domain QA Performance and Interpretability with Relevance Estimator in Retrieval-Augmented Generation. `2024.06`
 - \[[arxiv](https://arxiv.org/abs/2401.00396)\] RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models. `2024.05`
