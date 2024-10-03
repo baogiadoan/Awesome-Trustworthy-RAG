@@ -29,6 +29,7 @@
   - [📝 Surveys](#surveys)
     - [RAG](#rag)
     - [LLM Trustworthiness](#llm-trustworthiness)
+    - [RAG Trustworthiness](#rag-trustworthiness)
   - [🔒 Privacy](#privacy)
   - [🔧 Reliability](#reliability)
   - [💪 Robustness](#robustness)
@@ -53,6 +54,8 @@
 - \[[arxiv](https://arxiv.org/abs/2304.08979)\] In ChatGPT We Trust? Measuring and Characterizing the Reliability of ChatGPT. `2023.04`
 - \[[arxiv](https://arxiv.org/abs/2303.00293)\] How Robust is GPT-3.5 to Predecessors? A Comprehensive Study on Language Understanding Tasks. `2023.03`
 - \[[Paper](https://arxiv.org/abs/2210.09150)\] \[[Github](https://github.com/NoviScl/GPT3-Reliability)\] Prompting GPT-3 To Be Reliable. `2022.10`
+#### RAG Trustworthiness
+- \[[arxiv](https://arxiv.org/pdf/2409.10102)\] Trustworthiness in Retrieval-Augmented Generation Systems: A Survey. `2024.09`
 ### Privacy 
 - \[[arxiv](https://arxiv.org/abs/2402.16893)\] The Good and The Bad: Exploring Privacy Issues in Retrieval-Augmented Generation (RAG). `2024.02`
 ### Reliability
