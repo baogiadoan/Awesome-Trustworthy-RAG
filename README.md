@@ -57,6 +57,9 @@
 #### RAG Trustworthiness
 - \[[arxiv](https://arxiv.org/pdf/2409.10102)\] Trustworthiness in Retrieval-Augmented Generation Systems: A Survey. `2024.09`
 ### Privacy 
+- \[[arxiv](https://arxiv.org/pdf/2405.20485)\] Phantom: General Trigger Attacks on Retrieval Augmented Language Generation. `2024.10`
+- \[[arxiv](https://arxiv.org/abs/2405.20446)\] Is My Data in Your Retrieval Database? Membership Inference Attacks Against Retrieval Augmented Generation. `2024.06`
+- \[[arxiv](https://arxiv.org/abs/2305.14888)\] Privacy Implications of Retrieval-Based Language Models. `2024.05`
 - \[[arxiv](https://arxiv.org/abs/2402.16893)\] The Good and The Bad: Exploring Privacy Issues in Retrieval-Augmented Generation (RAG). `2024.02`
 ### Reliability
 - \[[arxiv](https://arxiv.org/pdf/2307.04642)\] TRAQ: Trustworthy Retrieval Augmented Question Answering via Conformal Prediction. `2024.04`
