@@ -56,11 +56,19 @@
 - \[[Paper](https://arxiv.org/abs/2210.09150)\] \[[Github](https://github.com/NoviScl/GPT3-Reliability)\] Prompting GPT-3 To Be Reliable. `2022.10`
 #### RAG Trustworthiness
 - \[[arxiv](https://arxiv.org/pdf/2409.10102)\] Trustworthiness in Retrieval-Augmented Generation Systems: A Survey. `2024.09`
+
 ### Privacy 
+- \[[arxiv](https://arxiv.org/abs/2411.01705)\] Data Extraction Attacks in Retrieval-Augmented Generation via Backdoors. `2024.11`
+- \[[arxiv](https://arxiv.org/abs/2411.14110)\] RAG-Thief: Scalable Extraction of Private Data from Retrieval-Augmented Generation Applications with Agent-based Attacks. `2024.11`
+- \[[arxiv](https://arxiv.org/abs/2410.20142)\] Mask-based Membership Inference Attacks for Retrieval-Augmented Generation. `2024.10`
 - \[[arxiv](https://arxiv.org/pdf/2405.20485)\] Phantom: General Trigger Attacks on Retrieval Augmented Language Generation. `2024.10`
+- \[[arxiv](https://arxiv.org/abs/2409.08045)\] Unleashing Worms and Extracting Data: Escalating the Outcome of Attacks against RAG-based Inference in Scale and Severity Using Jailbreaking. `2024.09`
 - \[[arxiv](https://arxiv.org/abs/2405.20446)\] Is My Data in Your Retrieval Database? Membership Inference Attacks Against Retrieval Augmented Generation. `2024.06`
+- \[[arxiv](https://arxiv.org/abs/2406.14773)\] Mitigating the Privacy Issues in Retrieval-Augmented Generation (RAG) via Pure Synthetic Data. `2024.06`
 - \[[arxiv](https://arxiv.org/abs/2305.14888)\] Privacy Implications of Retrieval-Based Language Models. `2024.05`
 - \[[arxiv](https://arxiv.org/abs/2402.16893)\] The Good and The Bad: Exploring Privacy Issues in Retrieval-Augmented Generation (RAG). `2024.02`
+
+
 ### Reliability
 - \[[arxiv](https://arxiv.org/pdf/2307.04642)\] TRAQ: Trustworthy Retrieval Augmented Question Answering via Conformal Prediction. `2024.04`
 - \[[arxiv](https://proceedings.neurips.cc/paper_files/paper/2022/file/8a0d3ae989a382ce6e50312bc35bf7e1-Paper-Conference.pdf)\] Unsupervised Cross-Task Generalization via Retrieval Augmentation. `2022.04`
