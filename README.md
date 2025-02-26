@@ -23,8 +23,6 @@
    
 ## Content
 
-
-  
 - [📜 Papers](#papers)
   - [📝 Surveys](#surveys)
     - [RAG](#rag)
@@ -36,6 +34,7 @@
   - [⛨ Safety](#safety)
   - [⚖️ Fairness](#fairness)
   - [📖 Explainability](#explainability)
+  - [🖊️ Accountability](@accountability)
   - [🤖 Others](#others)
 ---
 ##  Papers
@@ -49,15 +48,20 @@
 - \[[arxiv](https://arxiv.org/pdf/2306.11489.pdf)\] ChatGPT is not Enough: Enhancing Large Language Models with Knowledge Graphs for Fact-aware Language Modeling. `2023.06`
 - \[[arxiv](https://arxiv.org/abs/2211.05994)\] A Survey of Knowledge-Enhanced Pre-trained Language Models. `2023.05`
 - \[[Paper](https://arxiv.org/abs/2302.07842)\] Augmented Language Models: a Survey. `2023.02`
+
 #### LLM Trustworthiness
 - \[[arxiv](https://arxiv.org/abs/2306.11698)\]\[[Website](https://decodingtrust.github.io)\] DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models. `2024.02`
 - \[[arxiv](https://arxiv.org/abs/2304.08979)\] In ChatGPT We Trust? Measuring and Characterizing the Reliability of ChatGPT. `2023.04`
 - \[[arxiv](https://arxiv.org/abs/2303.00293)\] How Robust is GPT-3.5 to Predecessors? A Comprehensive Study on Language Understanding Tasks. `2023.03`
 - \[[Paper](https://arxiv.org/abs/2210.09150)\] \[[Github](https://github.com/NoviScl/GPT3-Reliability)\] Prompting GPT-3 To Be Reliable. `2022.10`
 #### RAG Trustworthiness
+- \[[arxiv](https://arxiv.org/abs/2502.06872)\]Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey. `2025.02`
 - \[[arxiv](https://arxiv.org/pdf/2409.10102)\] Trustworthiness in Retrieval-Augmented Generation Systems: A Survey. `2024.09`
 
 ### Privacy 
+- \[[arxiv](https://arxiv.org/abs/2412.19291)\] RAG with Differential Privacy. `2025.01`
+- \[[arxiv](https://arxiv.org/abs/2412.04697)\] Privacy-Preserving Retrieval Augmented Generation with Differential Privacy. `2024.12`
+- \[[arxiv](https://arxiv.org/abs/2412.12775)\] RemoteRAG: A Privacy-Preserving LLM Cloud RAG Service. `2024.12`
 - \[[arxiv](https://arxiv.org/abs/2411.01705)\] Data Extraction Attacks in Retrieval-Augmented Generation via Backdoors. `2024.11`
 - \[[arxiv](https://arxiv.org/abs/2411.14110)\] RAG-Thief: Scalable Extraction of Private Data from Retrieval-Augmented Generation Applications with Agent-based Attacks. `2024.11`
 - \[[arxiv](https://arxiv.org/abs/2410.20142)\] Mask-based Membership Inference Attacks for Retrieval-Augmented Generation. `2024.10`
@@ -68,23 +72,38 @@
 - \[[arxiv](https://arxiv.org/abs/2305.14888)\] Privacy Implications of Retrieval-Based Language Models. `2024.05`
 - \[[arxiv](https://arxiv.org/abs/2402.16893)\] The Good and The Bad: Exploring Privacy Issues in Retrieval-Augmented Generation (RAG). `2024.02`
 
-
 ### Reliability
+- \[[AAAI](https://arxiv.org/abs/2410.08985v2)\] Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective. `2024.10`
+- \[[arxiv](https://arxiv.org/abs/2408.08248)] Conformalized Answer Set Prediction for Knowledge Graph Embedding. `2024.08`
+- \[[ICLR](https://arxiv.org/abs/2306.10193)\] Conformal Language Modeling. `2024.06`
 - \[[arxiv](https://arxiv.org/pdf/2307.04642)\] TRAQ: Trustworthy Retrieval Augmented Question Answering via Conformal Prediction. `2024.04`
 - \[[arxiv](https://proceedings.neurips.cc/paper_files/paper/2022/file/8a0d3ae989a382ce6e50312bc35bf7e1-Paper-Conference.pdf)\] Unsupervised Cross-Task Generalization via Retrieval Augmentation. `2022.04`
 - \[[arxiv](https://arxiv.org/pdf/2009.08553)\] Generation-Augmented Retrieval for Open-Domain Question Answering. `2021.05`
+- \[[ICML](https://arxiv.org/abs/2402.03181)\] C-RAG: Certified Generation Risks for Retrieval-Augmented Language Models. `2024.02` 
 - \[[arxiv](https://arxiv.org/abs/2404.04287)\] CONFLARE: CONFormal LArge language model REtrieval. `2024.04`
 
 ### Robustness
+- \[[EMNLP](https://arxiv.org/abs/2407.13998)\] RAG-QA Arena: Evaluating Domain Robustness for Long-form Retrieval Augmented Question Answering. `2024.10`
+- \[[arxiv](https://arxiv.org/abs/2410.07176)\] Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models. `2024.10`
 - \[[arxiv](https://arxiv.org/abs/2406.00944)\] Unveil the Duality of Retrieval-Augmented Generation: Theoretical Analysis and Practical Solution. `2024.06`
 - \[[arxiv](https://arxiv.org/abs/2405.20978)\]  Enhancing Noise Robustness of Retrieval-Augmented Language Models with Adaptive Adversarial Training. `2024.05`
 - \[[arxiv](https://arxiv.org/abs/2405.15556)\] Certifiably Robust RAG against Retrieval Corruption. `2024.05`
 - \[[ICLR](https://openreview.net/forum?id=ZS4m74kZpH)\] Making Retrieval-Augmented Language Models Robust to Irrelevant Context. `2024.05`
 - \[[arxiv](https://arxiv.org/abs/2403.14952)\] Evidence-Driven Retrieval Augmented Response Generation for Online Misinformation. `2024.03`
+- \[[LREC-COLING](https://arxiv.org/abs/2402.14409)\] Tug-of-War Between Knowledge: Exploring and Resolving Knowledge Conflicts in Retrieval-Augmented Language Models. `2024.02`
+- \[[arxiv](https://arxiv.org/abs/2310.00935)\] Resolving Knowledge Conflicts in Large Language Models. `2023.10`
 - \[[Paper](https://openreview.net/pdf?id=XwnABAdH5y)\] Trustworthy Alignment of Retrieval-Augmented Large Language Models via Reinforcement Learning. `2023.07`
 
 ### Safety 
-- \[[arxiv](https://arxiv.org/pdf/2402.07867)\] PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models `2024.08`
+- \[[arxiv](https://openreview.net/forum?id=2aL6gcFX7q)\] Understanding Data Poisoning Attacks for RAG: Insights and Algorithms. `2025.01`
+- \[[WWW](https://openreview.net/forum?id=bwnWs4us0x#discussion)\] Traceback of Poisoned Texts in Poisoning Attacks to Retrieval-Augmented Generation. `2025.02`
+- \[[arxiv](https://arxiv.org/abs/2501.02968)\] FlipedRAG: Black-Box Opinion Manipulation Attacks to Retrieval-Augmented Generation of Large Language Models. `2025.01`
+- \[[arxiv](https://arxiv.org/abs/2501.14050)\] GraphRAG under Fire. `2025.01`
+- \[[arxiv](https://arxiv.org/abs/2501.00879)\] TrustRAG: Enhancing Robustness and Trustworthiness in RAG. `2025.01`
+- \[[arxiv](https://arxiv.org/abs/2501.11759)\] Poison-RAG: Adversarial Data Poisoning Attacks on Retrieval-Augmented Generation in Recommender Systems. `2025.01`
+- \[[arxiv](https://arxiv.org/abs/2411.18948)\] RevPRAG: Revealing Poisoning Attacks in Retrieval-Augmented Generation through LLM Activation Analysis. `2024.11`
+- \[[ACL](https://aclanthology.org/2024.emnlp-main.610/)\] ATM: Adversarial Tuning Multi-agent System Makes a Robust Retrieval-Augmented Generator. `2024.11`
+- \[[arxiv](https://arxiv.org/pdf/2402.07867)\] PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models. `2024.08`
 - \[[arxiv](https://arxiv.org/pdf/2406.00083v1)] BadRAG: Identifying Vulnerabilities in Retrieval Augmented Generation of Large Language Models. `2024.06`
 - \[[arxiv](https://arxiv.org/html/2406.18122v1)\] Poisoned LangChain: Jailbreak LLMs by LangChain. `2024.06`
 - \[[arxiv](https://arxiv.org/abs/2402.08416)\] Pandora: Jailbreak GPTs by Retrieval Augmented Generation Poisoning. `2024.02`
@@ -92,9 +111,11 @@
 - \[[arxiv](https://arxiv.org/abs/2310.19156)\] Poisoning Retrieval Corpora by Injecting Adversarial Passages. `2023.10` 
 
 ### Fairness
-- \[[arxiv](https://arxiv.org/abs/2305.19329)] Mitigating Test-Time Bias for Fair Image Retrieval. `2023.05`
-- \[[arxiv](https://arxiv.org/abs/2403.19964)\] FairRAG: Fair Human Generation via Fair Retrieval Augmentation. `2024.04`
+- \[[arxiv](https://arxiv.org/abs/2409.11598)\] Towards Fair RAG: On the Impact of Fair Ranking in Retrieval-Augmented Generation. `2024.09`
+- \[[arxiv](https://arxiv.org/abs/2409.19804)\] Does RAG Introduce Unfairness in LLMs? Evaluating Fairness in Retrieval-Augmented Generation Systems. `2024.09`
 - \[[arxiv](https://arxiv.org/pdf/2406.00083v1)] BadRAG: Identifying Vulnerabilities in Retrieval Augmented Generation of Large Language Models. `2024.06`
+- \[[arxiv](https://arxiv.org/abs/2403.19964)\] FairRAG: Fair Human Generation via Fair Retrieval Augmentation. `2024.04`
+- \[[arxiv](https://arxiv.org/abs/2305.19329)] Mitigating Test-Time Bias for Fair Image Retrieval. `2023.05`
 
 
 ### Explainability
@@ -112,6 +133,8 @@
 - \[[arxiv](https://arxiv.org/abs/2312.04469)\]On the Learnability of Watermarks for Language Models. `2024.05`
 - \[[arxiv](https://arxiv.org/abs/2310.18491)\]Publicly-Detectable Watermarking for Language Models. `2025.01`
 - \[[arxiv](https://arxiv.org/abs/2410.03537)\]Ward: Provable RAG Dataset Inference via LLM Watermarks. `2024.10`
+- \[[arxiv](https://arxiv.org/abs/2407.20990) From Feature Importance to Natural Language Explanations Using LLMs with RAG. `2024.06`
+- \[[SIGIR24](https://dl.acm.org/doi/abs/10.1145/3626772.3657984) IR-RAG@ SIGIR24: Information Retrieval's Role in RAG Systems. `2024.07`
 
 ### Others (Benchmarks, etc.)
 - \[[arxiv](https://arxiv.org/abs/2406.05794)\] RE-RAG: Improving Open-Domain QA Performance and Interpretability with Relevance Estimator in Retrieval-Augmented Generation. `2024.06`
