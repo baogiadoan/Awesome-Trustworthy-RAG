@@ -12,6 +12,7 @@
 <!-- Details of summary and classification of papers are shown in [wiki](https://github.com/zjukg/KG-LLM-Papers/wiki). -->
 
 ## 🔔 News
+- **`2024-02` Our latest survey [Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2502.06872) is available on ArXiv!**
 - **`2024-06` We create this repository to maintain a paper list on `Trustworthiness of the LLM Retrieval Augmented Generation paradigm`.**
 
 <!--
