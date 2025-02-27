@@ -58,6 +58,7 @@
 #### RAG Trustworthiness
 - \[[arxiv](https://arxiv.org/abs/2502.06872)\]Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey. `2025.02`
 - \[[arxiv](https://arxiv.org/pdf/2409.10102)\] Trustworthiness in Retrieval-Augmented Generation Systems: A Survey. `2024.09`
+- \[[arxiv](https://arxiv.org/abs/2401.05561)\] TrustLLM: Trustworthiness in Large Language Models. `2024.09`
 
 ### Privacy 
 - \[[arxiv](https://arxiv.org/abs/2412.19291)\] RAG with Differential Privacy. `2025.01`
