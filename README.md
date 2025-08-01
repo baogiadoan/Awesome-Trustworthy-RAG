@@ -114,7 +114,7 @@
 - \[[arxiv](https://arxiv.org/abs/2411.18948)\] RevPRAG: Revealing Poisoning Attacks in Retrieval-Augmented Generation through LLM Activation Analysis. `2024.11`
 - \[[ACL](https://aclanthology.org/2024.emnlp-main.610/)\] ATM: Adversarial Tuning Multi-agent System Makes a Robust Retrieval-Augmented Generator. `2024.11`
 - \[[EMNLP](https://arxiv.org/abs/2404.13948)] Typos that Broke the RAG's Back: Genetic Attack on RAG Pipeline by Simulating Documents in the Wild via Low-level Perturbations. `2024.10`
-- \[[arxiv](https://arxiv.org/pdf/2402.07867)\] PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models. `2024.08`
+- \[[Usenix Security](https://arxiv.org/pdf/2402.07867)\][Github](https://github.com/sleeepeer/PoisonedRAG?tab=readme-ov-file) PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models. `2024.08`
 - \[[arxiv](https://arxiv.org/pdf/2406.00083v1)\] BadRAG: Identifying Vulnerabilities in Retrieval Augmented Generation of Large Language Models. `2024.06`
 - \[[arxiv](https://arxiv.org/html/2406.18122v1)\] Poisoned LangChain: Jailbreak LLMs by LangChain. `2024.06`
 - \[[arxiv](https://arxiv.org/abs/2402.08416)\] Pandora: Jailbreak GPTs by Retrieval Augmented Generation Poisoning. `2024.02`
